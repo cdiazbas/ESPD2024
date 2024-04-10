@@ -1,12 +1,9 @@
 name: espd_machinelearning
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - python=3.10
-  - numpy
-  - pandas
-  - matplotlib
-  - datetime
-  - sklearn
-  - sunpy
-  - sunkit_instruments
+  - pip
+  - pip:
+    - -r requirements.txt

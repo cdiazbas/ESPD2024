@@ -1,0 +1,8 @@
+ipywidgets
+jupyterlab
+sunpy[all]
+scikit-learn
+sunkit_instruments
+shap
+pysr
+torch
