@@ -11,11 +11,10 @@ You can run the notebooks in this repository using Google Colab by clicking on t
 
 ### Run using BinderHub:
 If you want you can run this notebook using Binder by clicking on this link:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SolarOrbiterWorkshop/solo_workshop_gsfc/HEAD). 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cdiazbas/ESPD2024/HEAD). 
 It may take a few minutes to load up when you click on it for the first time
 
-### Run locally
-
+### Run locally:
 To run this notebook locally, we suggest that you create a new conda environement using the `environment.yml` file in this repository.
 This can be done by first clone this repository i.e. `git clone https://github.com/cdiazbas/ESPD2024` and then creating a new environment as such:
 
