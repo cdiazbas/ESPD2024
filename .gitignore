@@ -161,3 +161,5 @@ cython_debug/
 cme_cycle24/
 flare_cycle24/
 hall_of_fame*
+*withsolution*
+*donttrack*
